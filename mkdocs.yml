@@ -1,10 +1,10 @@
-site_name: 'Jen's training repo'
-site_description: 'Jen's research portfolio'
+site_name: 'Jen training repo'
+site_description: 'Jen research portfolio'
 site_author: Jen Kovacs
 site_url: https://github.com/echinodermatamata/training_repo
 
 # Repository
-repo_name: Jen's training 
+repo_name: Jen training 
 repo_url: https://github.com/echinodermatamata/training_repo
 edit_uri: edit/main/docs/
 # Copyright
